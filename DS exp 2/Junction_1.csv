@@ -1,0 +1,7 @@
+Location,Timestamp,Vehicle_Count,Average_Speed,Weather_Condition,Signal_Time,Accidents,Congestion_Level
+Junction 1,2026-07-22 08:00:00,120,45.5,Clear,60,0,Medium
+Junction 1,2026-07-22 09:00:00,250,30.0,Clear,90,1,High
+Junction 1,2026-07-22 10:00:00,180,38.2,Rainy,75,0,Medium
+Junction 1,2026-07-22 11:00:00,,42.0,Clear,60,0,Low
+Junction 1,2026-07-22 12:00:00,140,-15.0,Clear,60,0,Low
+Junction 1,2026-07-22 08:00:00,120,45.5,Clear,60,0,Medium
