@@ -1,0 +1,9 @@
+Application_No,Student_Name,Age,Entrance_Exam_Score,Board_Percentage,Branch_Preference,Reservation_Category,Family_Income,Admission_Status
+APP1001,Aarav Sharma,18,85,88.5,Computer Science,General,600000,Admitted
+APP1002,Ananya Verma,19,92,91.0,Computer Science,OBC,450000,Admitted
+APP1003,Rohan Mehta,17,74,78.0,Mechanical,General,800000,Waitlisted
+APP1004,Priya Patel,20,68,72.5,Electrical,SC,300000,Admitted
+APP1005,Karan Singh,18,55,65.0,Civil,ST,250000,Rejected
+APP1006,Neha Gupta,19,88,86.0,Computer Science,General,1200000,Admitted
+APP1010,Amit Kumar,18,79,80.0,Computer Science,EWS,350000,Admitted
+APP1011,Divya Sen,19,90,89.5,Electronics,General,950000,Admitted
